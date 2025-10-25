@@ -1,6 +1,6 @@
 # 🧠 AI Data Reasoning Task Evaluator
 
-This project simulates how AI models are evaluated for **reasoning and data-science skills**, inspired by [Project Agate (Pareto.AI)](https://pareto.ai/).  
+This project simulates how AI models are evaluated for **reasoning and data-science skills**. 
 It designs a realistic data-analysis challenge, generates synthetic data, and grades AI model responses automatically using a **rubric-based scoring system**.
 
 ---
@@ -65,6 +65,9 @@ venv\Scripts\activate
 # 3. Install dependencies
 pip install -r requirements.txt
 
+# 4. Run the grader
+python grading_script.py
+
 
 
 💡 Why This Project Matters
@@ -91,5 +94,4 @@ GitHub Profile: https://github.com/samuelnjerungari
 LinkeIn: www.linkedin.com/in/samuel-n-ngari
 
 
-# 4. Run the grader
-python grading_script.py
+
