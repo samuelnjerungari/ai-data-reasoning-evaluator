@@ -1,6 +1,9 @@
 AI Data Reasoning Task Evaluator
+
 Overview
+
 This project simulates how AI models are tested for reasoning and data-science skills — similar to the evaluation workflow used in Project Agate (Pareto.AI). It designs a realistic data-analysis challenge, generates synthetic data, creates sample AI model answers, and grades them automatically using a rubric-based scoring system.
+
 What It Does
 •	Dataset Creation – builds a fake hospital dataset (patients.csv).
 •	Task Design – defines a reasoning challenge for AI models.
@@ -8,10 +11,12 @@ What It Does
 •	Rubric Design – sets up weighted scoring criteria.
 •	Automated Grading – runs grading_script.py to score answers.
 •	Visualization – plots a bar chart comparing model scores.
+
 Tech Stack
 • Python 3.10
 • pandas, numpy, matplotlib, Jupyter Notebook
 • VS Code + Jupyter Extension
+
 Example Output
 🧾 Evaluation Report:
 model_name   final_score
@@ -39,6 +44,8 @@ AI alignment and reasoning QA rely on robust evaluation design. This project dem
 - Build grading rubrics
 - Automate evaluation & reporting
 - Communicate results visually
+
+
 Author
 Samuel Njeru Ngari
 Clinical NLP & Annotation QA Specialist
