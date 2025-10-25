@@ -51,25 +51,6 @@ Below is the comparison of AI model performance:
 
 ---
 
-## ▶️ How to Run
-
-```bash
-# 1. Clone or download this repo
-git clone https://github.com/samuelnjerungari/ai-data-reasoning-evaluator
-cd ai-data-reasoning-evaluator
-
-# 2. Create & activate a virtual environment
-python -m venv venv
-venv\Scripts\activate
-
-# 3. Install dependencies
-pip install -r requirements.txt
-
-# 4. Run the grader
-python grading_script.py
-
-
-
 💡 Why This Project Matters
 
 As AI systems evolve, evaluating reasoning and workflow accuracy becomes essential for safe, aligned, and interpretable AI behavior.
@@ -92,6 +73,27 @@ Clinical NLP & Annotation QA Specialist
 
 GitHub Profile: https://github.com/samuelnjerungari
 LinkeIn: www.linkedin.com/in/samuel-n-ngari
+
+## ▶️ How to Run
+
+```bash
+# 1. Clone or download this repo
+git clone https://github.com/samuelnjerungari/ai-data-reasoning-evaluator
+cd ai-data-reasoning-evaluator
+
+# 2. Create & activate a virtual environment
+python -m venv venv
+venv\Scripts\activate
+
+# 3. Install dependencies
+pip install -r requirements.txt
+
+# 4. Run the grader
+python grading_script.py
+
+
+
+
 
 
 
