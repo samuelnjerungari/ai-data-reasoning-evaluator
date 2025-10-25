@@ -1,0 +1,21 @@
+patient_id,age,diagnosis,readmitted,medication_count
+1,63,Diabetes,Yes,7
+2,76,Hypertension,No,5
+3,53,Heart Disease,No,9
+4,39,Heart Disease,No,7
+5,67,Hypertension,No,2
+6,32,Hypertension,No,4
+7,45,Hypertension,Yes,9
+8,63,Heart Disease,No,2
+9,82,Heart Disease,No,9
+10,43,Diabetes,Yes,5
+11,47,Diabetes,No,2
+12,35,Heart Disease,Yes,4
+13,35,Hypertension,No,7
+14,48,Hypertension,Yes,8
+15,77,Diabetes,No,3
+16,60,Heart Disease,No,1
+17,64,Diabetes,Yes,4
+18,48,Diabetes,Yes,2
+19,27,Asthma,Yes,8
+20,46,Asthma,Yes,4

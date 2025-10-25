@@ -1,0 +1,5 @@
+Criterion,Weight,Description
+Correct Metric Calculation,0.4,The model correctly calculates readmission rate
+Logical Reasoning,0.3,The model identifies the right diagnosis based on data
+Clarity & Completeness,0.2,The answer is clear and covers all points
+Actionability,0.1,The recommendation is practical and relevant
